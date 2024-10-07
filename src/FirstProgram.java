@@ -10,6 +10,7 @@ public class FirstProgram {
         System.out.println("Hello World!");
     }
 }
+//Result: Hello World!
 
 /*
  ---------
