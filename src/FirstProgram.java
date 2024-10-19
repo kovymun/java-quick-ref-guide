@@ -5,13 +5,6 @@
  * We will break down concepts such as the class declaration, the main method, and how to print output to the console.
  */
 
-public class FirstProgram {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
-//Result: Hello World!
-
 /*
  ---------
  * NOTES *
@@ -26,3 +19,12 @@ public class FirstProgram {
  * STRING[] ARGS: This parameter stores any command-line arguments passed to the program.
  * PRINTING TO CONSOLE: The `System.out.println()` method is used to print text to the console followed by a new line.
  */
+
+public class FirstProgram {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+//Result: Hello World!
+
+
